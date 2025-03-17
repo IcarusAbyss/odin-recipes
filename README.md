@@ -1,2 +1,2 @@
 # odin-recipes
-March 17th 2025 — Have a landing page to show available recipes. Create severeral pages to display recipes. I will have demonstrated how to link pages to other pages created, and how to utilize ordered and unordered lists.
+March 17th 2025 — Have a landing page to show available recipes. Create several pages to display recipes. I will have demonstrated how to link pages to other pages created, and how to utilize ordered and unordered lists.
